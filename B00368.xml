@@ -1,0 +1,174 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The French kings declaration made in favour of the princes, dukes, peeres, officers of the crown, lords, gentlemen, and others, who had withdrawne themselues from his Majesty. Publisahed in Parliament the twelfth of May, 1617. Translated out of the French copie.</title>
+            <author>France. Sovereign (1610-1643 : Louis XIII)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1617</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B00368</idno>
+            <idno type="STC">STC 16835.5</idno>
+            <idno type="STC">ESTC S94034</idno>
+            <idno type="EEBO-CITATION">44920359</idno>
+            <idno type="OCLC">ocm 44920359</idno>
+            <idno type="VID">173804</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B00368)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 173804)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 2098:21)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The French kings declaration made in favour of the princes, dukes, peeres, officers of the crown, lords, gentlemen, and others, who had withdrawne themselues from his Majesty. Publisahed in Parliament the twelfth of May, 1617. Translated out of the French copie.</title>
+                  <author>France. Sovereign (1610-1643 : Louis XIII)</author>
+                  <author>Louis XIII, King of France, 1601-1643.</author>
+               </titleStmt>
+               <extent>[2], 8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Felix Kyngston for William Arondell, at the Angell in Pauls Church-yard.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1617.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: A(-A₂)⁴, B².</note>
+                  <note>Printer's device on t.p.: McK. 273β.</note>
+                  <note>Reproduction of original in: Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Concini, Concino, --  maréchal d'Ancre, ca. 1575-1617.</term>
+               <term>France --  History --  Louis XIII, 1610-1643 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:173804:1"/>
+            <!-- PDF PAGE 44 -->
+            <p>THE FRENCH KINGS DECLA<g ref="char:EOLhyphen"/>RATION MADE IN FAVOVR OF THE PRINCES, Dukes, Peeres, Officers of the Crown, Lords, Gentlemen, and others, who had withdrawne themſelues from his Maieſty.</p>
+            <p>PVBLISHED IN PARLIAMENT the twelfth of May, 1617.</p>
+            <p>Tranſlated out of the French Copie.</p>
+            <figure>
+               <q>BY WISDOM PEACE BY PEACE PLENTY</q>
+            </figure>
+            <p>LONDON Printed by <hi>Felix Kyngſton</hi> for <hi>William Arondell,</hi> at the Angell in Pauls Church-yard. 1617.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:173804:2"/>
+            <!-- PDF PAGE 45 -->
+            <pb n="1" facs="tcp:173804:2"/>
+            <!-- PDF PAGE 45 -->
+            <head>THE FRENCH KINGS DECLARATI<g ref="char:EOLhyphen"/>ON MADE IN FAVOVR OF the Princes, Dukes, Peeres, Officers of the Crowne, Lords, Gentlemen, <hi>and others who had withdrawne themſelues from his Maieſty.</hi>
+            </head>
+            <head type="sub">
+               <hi>Publiſhed in Parliament the</hi> 12. <hi>of May<g ref="char:punc">▪</g>
+               </hi> 1617.</head>
+            <p>
+               <seg rend="decorInit">L</seg>EVVIS, By the grace of God, King of France and Nauarre, to all preſent, and to come, greeting. Our commandment (ſince the death of the Marſhall <hi>d' Ancre</hi>) hauing been ſo readily obeyed, by the Princes, Dukes, Peeres, Officers of our Crowne, Lords, Gentlemen, Officers of our ſoueraigne Courts, and all ſuch as were their followers, againſt whom wee had decreed our
+<pb n="2" facs="tcp:173804:3"/>
+               <!-- PDF PAGE 46 -->
+Letters Patents, of the monethes of Ianuarie, and Februarie laſt, doth ſufficiently teſtifie vn<g ref="char:EOLhyphen"/>to vs, that the onely deſire of their conſerua<g ref="char:EOLhyphen"/>tion, and to withſtand their apparant ruine, which was plotted by the inſolent, violent, and pernicious deſignes of the ſaid Marſhall <hi>d' Ancre,</hi> had conſtrained them to withdraw themſelues from vs, and to purchaſe their ſe<g ref="char:EOLhyphen"/>curitie by Armes, though vnlawfull; for as much as the ſaid Marſhall made vſe of my for<g ref="char:EOLhyphen"/>ces to oppreſſe them, contrary to my intenti<g ref="char:EOLhyphen"/>on. But as it concerned our Dignitie, to de<g ref="char:EOLhyphen"/>cree our letters of declaration againſt them, when as they exploited actions contrary to their dutie, where they ſhould haue expected our iuſtice. Now that we are aſſured of their fidelitie, and that they haue declared vnto vs, that the meere neceſſity of their conſeruation, was the motiue to aſſociate themſelues, onely to oppoſe againſt the violences of the ſaid Marſhall; and that we haue been by them ſuf<g ref="char:EOLhyphen"/>ficiently informed of their good intentions towards vs, and our Kingdomes; and of the de<g ref="char:EOLhyphen"/>ſire which they haue to ſpend their liues to augment the greatneſſe thereof, and to main<g ref="char:EOLhyphen"/>taine vs &amp; our authority, &amp; that they are very
+<pb n="3" facs="tcp:173804:3"/>
+               <!-- PDF PAGE 46 -->
+ſorie and diſpleaſed with themſelues, for ha<g ref="char:EOLhyphen"/>uing leuied men of warre, taken and detained our moneys, impoſed contributions on our people, and cauſed our ſubiects (like toyle<g ref="char:EOLhyphen"/>ſome drudges) to fortifie ſuch places as were by them held, which they haue proteſted vnto vs they neuer would haue vndertaken, much leſſe haue cauſed ſtrangers to enter our Realmes, if they had not been thereunto con<g ref="char:EOLhyphen"/>ſtrained, to auoide the vtter ruine and deſola<g ref="char:EOLhyphen"/>tion of them and their families. Wee, of our clemencie and Royall bountie, are moued to deale fauourably with them; to pardon ſuch defaults and ouerſights, which might haue bin committed in the premiſſes, and to reeſtabliſh them in the charges, honours, and dignities, which they heretofore poſſeſſed; ſeeing with<g ref="char:EOLhyphen"/>all, this may be a meanes to fortifie our King<g ref="char:EOLhyphen"/>domes, with a neceſſary peace, of good men ſo much deſired. Hauing therfore deliberated of theſe affaires in our Counſell, ſome of the Princes of our blood being preſent, with o<g ref="char:EOLhyphen"/>ther Princes, Dukes, Peeres, Officers of our Crowne, and the chiefeſt of our ſaid Coun<g ref="char:EOLhyphen"/>ſell; we giue all men to vnderſtand, that by the aduice of our Counſel aforeſaid, and our own
+<pb n="4" facs="tcp:173804:4"/>
+               <!-- PDF PAGE 47 -->
+certaine knowledge, full power, and Royall authoritie, wee haue pronounced and decla<g ref="char:EOLhyphen"/>red; and by theſe preſents ſigned with our hand, doe pronounce and declare, that wee hold the ſaid Princes, Dukes, Peeres, Officers of our Crowne, and all thoſe which haue aſſi<g ref="char:EOLhyphen"/>ſted them, for our good and loyall ſubiects and ſeruants: wee will and ordaine, that the memorie of all that hath paſſed in theſe laſt troubles for the cauſes afore ſpecified, and al<g ref="char:EOLhyphen"/>ſo concerning the ſaid leauie of Armes, and acts of Hoſtility, to remaine vtterly extinct and aboliſhed, as wee doe by theſe preſents a<g ref="char:EOLhyphen"/>foreſaid extinguiſh and aboliſh them; proui<g ref="char:EOLhyphen"/>ded alwaies, that they doe hereafter containe themſelues within the limits of the reſpect and dutie which they owe vnto vs, and ſhall yeeld that obedience vnto our commandements which they are bound vnto. And that from this preſent time they renounce all leagues and aſſociations, which might by them bee made, betweene themſelues, and other of our ſubiects, or ſtrangers, as well within the Realme, as without, and of what condition ſo<g ref="char:EOLhyphen"/>euer they bee; and ſhall generally performe the duties of good and faithfull ſubiects and
+<pb n="5" facs="tcp:173804:4"/>
+               <!-- PDF PAGE 47 -->
+ſeruants, whereunto they are obliged by their births: the premiſſes conſidered, we haue ree<g ref="char:EOLhyphen"/>ſtabliſhed, and doe reeſtabliſh them into all and ſingular their goods, moueables, and im<g ref="char:EOLhyphen"/>mouables, honours, dignities, charges, eſtates, offices and penſions, whereof wee giue them full and entire repoſſeſſion; and to this end haue we reuoked and taken away all attach<g ref="char:EOLhyphen"/>ments thereupon made. We will and ordaine, that they enioy our fauours, graces, benifi<g ref="char:EOLhyphen"/>ces, honours, and gouernments, and that they exerciſe their charges and offices, euen as they formerly did, ſo that hereafter they may not be moleſted nor troubled in any forme or fa<g ref="char:EOLhyphen"/>ſhion whatſoeuer. Thereupon impoſing ſi<g ref="char:EOLhyphen"/>lence on all our Atturneys General, their ſub<g ref="char:EOLhyphen"/>ſtitutes preſent and to come, and to all others: All declarations, interdictions, and other Let<g ref="char:EOLhyphen"/>ters Patents, which haue been by vs hereto<g ref="char:EOLhyphen"/>fore decreed and publiſhed in our Courts of Parliament, to the contrary in any wiſe not<g ref="char:EOLhyphen"/>withſtanding; which we haue reuoked, and do reuoke, haue declared, and doe declare void and of no effect and value, as alſo all which hath been done in the execution thereof; the which to that effect, of our eſpeciall grace, we
+<pb n="6" facs="tcp:173804:5"/>
+               <!-- PDF PAGE 48 -->
+will cauſe to be taken away, and put out of the Regiſters of our Courts of Parliament. More<g ref="char:EOLhyphen"/>ouer, we hold thoſe releaſed and diſcharged, whom they had appointed for the managing of our treaſure, with others from whom they might haue exacted, and ſuddenly compelled to bring in their monies: prouided that within ſix weekes after the Publication of theſe pre<g ref="char:EOLhyphen"/>ſents, they deliuer into our Chamber of Ac<g ref="char:EOLhyphen"/>counts, the copie of their bils of receits, ſea<g ref="char:EOLhyphen"/>led and ſigned by one of the ſaid Princes and Dukes; likewiſe of the woods which they might haue felled, and carried out of our for<g ref="char:EOLhyphen"/>reſts. We will alſo, that our edicts and declara<g ref="char:EOLhyphen"/>tions heretofore made, for the pacification of the troubles of our Realme; namely, that of <hi>Blois,</hi> at the iſſue and ſequell of the treatie of <hi>Lodune,</hi> be inuiolably executed, kept, and iuſt<g ref="char:EOLhyphen"/>ly obſerued, according to their forme and te<g ref="char:EOLhyphen"/>nure. And that vnder the authority and bene<g ref="char:EOLhyphen"/>fit of the ſame, all our ſubiects, as well Catho<g ref="char:EOLhyphen"/>lick, as thoſe of the pretended reformed Reli<g ref="char:EOLhyphen"/>gion, may hereafter liue in good peace, vni<g ref="char:EOLhyphen"/>on, &amp; correſpondence, vnder our obedience, without vpbraiding one the other with any imputation of thoſe things that are done and
+<pb n="7" facs="tcp:173804:5"/>
+               <!-- PDF PAGE 48 -->
+paſt. Alſo we giue commiſſion to our truſtie &amp; beloued Counſellors, holding our Courts of Parliament, Chambers of our accounts, Bayliffes, Seneſchalles, Iudges, or their ſubſti<g ref="char:EOLhyphen"/>tutes, and to all our other Iuſtices and Offi<g ref="char:EOLhyphen"/>cers, to whom it may, or ſhal appertaine, each one for himſelfe to giue credit to theſe pre<g ref="char:EOLhyphen"/>ſents, and cauſe them to bee read, publiſhed, kept and obſerued, according to their forme and tenure: And to the end they may bee for euer firme and ſtable, we haue cauſed to theſe preſents to bee ſet our ſeale; for ſuch is our pleaſure. Giuen at <hi>Bois de Vincennes,</hi> in the moneth of May, in the yeere of grace, 1617. and of our Raigne the ſeuenth.</p>
+            <closer>
+               <signed>Signed, LEVVIS. And on the fold in the bottome by the King, DE LOMENIE. And on the ſide is written, VISA. And ſealed with the great Seale of green wax, on labels of red and greene ſilke.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="license">
+            <pb n="8" facs="tcp:173804:6" rendition="simple:additions"/>
+            <!-- PDF PAGE 49 -->
+            <p>Read, publiſhed, registred, and heard, and that at the request of the Kings Atturney generall, who ordaineth, that colationed copies ſhall bee ſent to the Bayliwiks and Seneſchallſhips, to be there read, publiſhed, &amp; registred, through the diligence of the ſaid Atturney generall, his Substitutes, who ſhall certifie the doing hereof within the moneth, on paine to anſwere it at their perill. At Paris in the Court of Parliament, the twelfth of May, one thouſand, ſix hundred and ſeuenteene.</p>
+            <closer>
+               <signed>Signed, DV TILLET.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
